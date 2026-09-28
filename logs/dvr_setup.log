@@ -1,0 +1,1242 @@
+2026-09-22 15:36:03,071 | INFO    | src.database | Database pool initialized
+2026-09-22 15:36:12,590 | ERROR   | main | Failed to save result to DB: (1054, "Unknown column 'duration_ms' in 'field list'")
+2026-09-22 15:36:31,569 | INFO    | src.database | Database pool initialized
+2026-09-22 15:36:40,138 | INFO    | src.database | Inserted 1 log records
+2026-09-22 15:36:59,754 | INFO    | src.database | Database pool initialized
+2026-09-22 15:37:07,950 | INFO    | src.database | Inserted 1 log records
+2026-09-22 15:39:45,031 | INFO    | src.database | Database pool initialized
+2026-09-22 15:39:53,215 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 15:40:01,890 | INFO    | src.database | Database pool initialized
+2026-09-22 15:40:10,363 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 15:41:03,970 | INFO    | src.database | Database pool initialized
+2026-09-22 15:41:12,723 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 15:41:38,311 | INFO    | src.database | Database pool initialized
+2026-09-22 15:41:48,468 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 15:49:52,548 | INFO    | src.database | Database pool initialized
+2026-09-22 15:50:02,608 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:02:28,476 | INFO    | src.database | Database pool initialized
+2026-09-22 16:02:40,708 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:10:42,197 | INFO    | src.database | Database pool initialized
+2026-09-22 16:11:05,747 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:14:32,970 | INFO    | src.database | Database pool initialized
+2026-09-22 16:14:46,219 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:19:21,718 | INFO    | src.database | Database pool initialized
+2026-09-22 16:19:40,967 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:26:00,991 | INFO    | src.database | Database pool initialized
+2026-09-22 16:26:10,416 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:26:35,036 | INFO    | src.database | Database pool initialized
+2026-09-22 16:26:35,055 | INFO    | main | Starting setup for 845 DVRs...
+2026-09-22 16:26:53,819 | WARNING | main | Interrupted by user
+2026-09-22 16:32:02,368 | INFO    | src.database | Database pool initialized
+2026-09-22 16:32:02,370 | INFO    | main | Starting setup for 2 DVRs...
+2026-09-22 16:32:22,377 | INFO    | main | [SUCCESS] 172.17.16.33 (DS-7104HGHI-K1) - 19991ms
+2026-09-22 16:32:22,383 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:32:22,521 | ERROR   | main | [EXCEPTION] 172.17.17.30: 
+2026-09-22 16:32:22,538 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:19,791 | INFO    | src.database | Database pool initialized
+2026-09-22 16:33:19,793 | INFO    | main | Starting setup for 10 DVRs...
+2026-09-22 16:33:24,034 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.11.59 (DS-7A04HGHI-F1\ECO) - 4229ms
+2026-09-22 16:33:24,034 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:29,981 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.8.237 (PT-DR1A04G-K1) - 10176ms
+2026-09-22 16:33:29,997 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:30,743 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.7.109 (DS-7B04HGHI-F1) - 10938ms
+2026-09-22 16:33:30,743 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:31,655 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.8.19 (DS-7A08HGHI-F1\ECO) - 11850ms
+2026-09-22 16:33:31,655 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:32,048 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.8.45 (DS-7A08HGHI-F1\ECO) - 12243ms
+2026-09-22 16:33:32,062 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:32,569 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.7.129 (DS-7B04HGHI-F1) - 12764ms
+2026-09-22 16:33:32,589 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:33,366 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.7.165 (DS-7B04HGHI-F1) - 13561ms
+2026-09-22 16:33:33,369 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:37,291 | INFO    | main | [SUCCESS] 172.17.16.33 (DS-7104HGHI-K1) - 17487ms
+2026-09-22 16:33:37,291 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:37,606 | INFO    | main | [SUCCESS] 172.17.8.97 (DS-7A04HGHI-F1\ECO) - 17802ms
+2026-09-22 16:33:37,608 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:33:54,193 | INFO    | main | [SUCCESS] 172.17.17.30 (Unknown) - 34388ms
+2026-09-22 16:33:54,193 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:13,885 | INFO    | src.database | Database pool initialized
+2026-09-22 16:40:13,887 | INFO    | main | Starting setup for 20 DVRs...
+2026-09-22 16:40:17,000 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.7.109 (DS-7B04HGHI-F1) - 3101ms
+2026-09-22 16:40:17,013 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:17,237 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.8.237 (PT-DR1A04G-K1) - 3338ms
+2026-09-22 16:40:17,243 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:17,384 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.8.19 (DS-7A08HGHI-F1\ECO) - 3485ms
+2026-09-22 16:40:17,384 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:17,871 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.7.129 (DS-7B04HGHI-F1) - 3972ms
+2026-09-22 16:40:17,871 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:18,093 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.11.59 (DS-7A04HGHI-F1\ECO) - 4194ms
+2026-09-22 16:40:18,093 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:18,680 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.7.165 (DS-7B04HGHI-F1) - 4781ms
+2026-09-22 16:40:18,682 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:19,386 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.8.45 (DS-7A08HGHI-F1\ECO) - 5487ms
+2026-09-22 16:40:19,386 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:22,507 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.16.135 (DS-7104HGHI-K1) - 8608ms
+2026-09-22 16:40:22,523 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:22,593 | INFO    | main | [SUCCESS] 172.17.16.33 (DS-7104HGHI-K1) - 8694ms
+2026-09-22 16:40:22,604 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:24,297 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.9.7 (PT-DR1A04G-K1) - 10398ms
+2026-09-22 16:40:24,302 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:24,623 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.20.52 (PT-DR1A04G-K1) - 10724ms
+2026-09-22 16:40:24,638 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:24,686 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.20.32 (PT-DR1A04G-K1) - 10787ms
+2026-09-22 16:40:24,686 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:25,145 | INFO    | main | [SUCCESS] 172.17.8.97 (DS-7A04HGHI-F1\ECO) - 11246ms
+2026-09-22 16:40:25,154 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:25,206 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.11.115 (DS-7A04HGHI-F1\ECO) - 11307ms
+2026-09-22 16:40:25,208 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.11.16 (DS-7A04HGHI-F1\ECO) - 11309ms
+2026-09-22 16:40:25,211 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:25,213 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:25,486 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.8.199 (DS-7A04HGHI-F1\ECO) - 11587ms
+2026-09-22 16:40:25,489 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:25,527 | INFO    | main | [SUCCESS_SAVED_ONLY] 172.17.11.5 (DS-7A04HGHI-F1\ECO) - 11629ms
+2026-09-22 16:40:25,536 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:28,533 | INFO    | main | [SUCCESS] 172.17.11.176 (DS-7A04HGHI-F1\ECO) - 14634ms
+2026-09-22 16:40:28,537 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:34,660 | INFO    | main | [SUCCESS] 172.17.11.67 (DS-7A04HGHI-F1\ECO) - 20761ms
+2026-09-22 16:40:34,678 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:40:37,070 | INFO    | main | [SUCCESS] 172.17.17.30 (PT-DR1A04G-K1) - 23171ms
+2026-09-22 16:40:37,081 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:45:01,638 | INFO    | src.database | Database pool initialized
+2026-09-22 16:45:14,599 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:45:21,345 | INFO    | src.database | Database pool initialized
+2026-09-22 16:45:21,347 | INFO    | main | [36mStarting setup for 3 DVRs...[0m
+2026-09-22 16:45:25,914 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.59[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 4555ms
+2026-09-22 16:45:25,953 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:45:32,206 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.16.33[0m ([35mDS-7104HGHI-K1[0m) - 10844ms
+2026-09-22 16:45:32,218 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:45:35,073 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.17.30[0m ([35mPT-DR1A04G-K1[0m) - 13712ms
+2026-09-22 16:45:35,077 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:07,153 | INFO    | src.database | Database pool initialized
+2026-09-22 16:47:07,155 | INFO    | main | [36mStarting setup for 20 DVRs...[0m
+2026-09-22 16:47:10,114 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.9.7[0m ([35mPT-DR1A04G-K1[0m) - 2949ms
+2026-09-22 16:47:10,125 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:10,339 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.5[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 3174ms
+2026-09-22 16:47:10,339 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:10,432 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.237[0m ([35mPT-DR1A04G-K1[0m) - 3267ms
+2026-09-22 16:47:10,432 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:10,479 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.32[0m ([35mPT-DR1A04G-K1[0m) - 3314ms
+2026-09-22 16:47:10,479 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:10,527 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.109[0m ([35mDS-7B04HGHI-F1[0m) - 3362ms
+2026-09-22 16:47:10,529 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:10,707 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.19[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 3542ms
+2026-09-22 16:47:10,707 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:10,875 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.52[0m ([35mPT-DR1A04G-K1[0m) - 3695ms
+2026-09-22 16:47:10,876 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:11,193 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.59[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 4029ms
+2026-09-22 16:47:11,209 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:11,479 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.129[0m ([35mDS-7B04HGHI-F1[0m) - 4314ms
+2026-09-22 16:47:11,488 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:11,725 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.199[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 4560ms
+2026-09-22 16:47:11,725 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:11,922 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.115[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 4757ms
+2026-09-22 16:47:11,923 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:11,962 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.16[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 4797ms
+2026-09-22 16:47:11,962 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:12,626 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.165[0m ([35mDS-7B04HGHI-F1[0m) - 5461ms
+2026-09-22 16:47:12,626 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:13,132 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.45[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 5967ms
+2026-09-22 16:47:13,132 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:18,149 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.8.97[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 10984ms
+2026-09-22 16:47:18,158 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:19,422 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.16.33[0m ([35mDS-7104HGHI-K1[0m) - 12257ms
+2026-09-22 16:47:19,439 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:20,380 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.11.176[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 13215ms
+2026-09-22 16:47:20,380 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:21,352 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.11.67[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 14187ms
+2026-09-22 16:47:21,352 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:24,012 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.17.30[0m ([35mPT-DR1A04G-K1[0m) - 16847ms
+2026-09-22 16:47:24,012 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 16:47:48,318 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.135[0m ([35mDS-7104HGHI-K1[0m) - 41153ms
+2026-09-22 16:47:48,318 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:00:06,052 | INFO    | src.database | Database pool initialized
+2026-09-22 17:00:18,446 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:00:24,593 | INFO    | src.database | Database pool initialized
+2026-09-22 17:00:24,595 | INFO    | main | [36mStarting setup for 2 DVRs...[0m
+2026-09-22 17:00:41,128 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.17.30[0m ([35mPT-DR1A04G-K1[0m) - 16500ms
+2026-09-22 17:00:41,133 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:00:47,806 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.16.33[0m ([35mDS-7104HGHI-K1[0m) - 23179ms
+2026-09-22 17:00:47,867 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:01:52,252 | INFO    | src.database | Database pool initialized
+2026-09-22 17:01:55,589 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:04:34,618 | INFO    | src.database | Database pool initialized
+2026-09-22 17:04:37,889 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:09:21,433 | INFO    | src.database | Database pool initialized
+2026-09-22 17:09:25,648 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:11:29,302 | INFO    | src.database | Database pool initialized
+2026-09-22 17:11:44,534 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:11:57,941 | INFO    | src.database | Database pool initialized
+2026-09-22 17:12:14,222 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:13:04,641 | INFO    | src.database | Database pool initialized
+2026-09-22 17:13:09,254 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:15:27,373 | INFO    | src.database | Database pool initialized
+2026-09-22 17:15:31,229 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:16:57,170 | INFO    | src.database | Database pool initialized
+2026-09-22 17:17:01,403 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:21:35,173 | INFO    | src.database | Database pool initialized
+2026-09-22 17:21:42,231 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:23:48,067 | INFO    | src.database | Database pool initialized
+2026-09-22 17:23:55,434 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:08,750 | INFO    | src.database | Database pool initialized
+2026-09-22 17:57:08,757 | INFO    | main | [36mStarting setup for 20 DVRs...[0m
+2026-09-22 17:57:13,650 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.32[0m ([35mPT-DR1A04G-K1[0m) - 4877ms
+2026-09-22 17:57:13,658 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:14,369 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.135[0m ([35mDS-7104HGHI-K1[0m) - 5596ms
+2026-09-22 17:57:14,378 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:15,556 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.9.7[0m ([35mPT-DR1A04G-K1[0m) - 6783ms
+2026-09-22 17:57:15,556 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:16,561 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.16[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7788ms
+2026-09-22 17:57:16,561 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:16,681 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.52[0m ([35mPT-DR1A04G-K1[0m) - 7908ms
+2026-09-22 17:57:16,688 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:23,733 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.199[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7172ms
+2026-09-22 17:57:23,733 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:26,509 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.87[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 12851ms
+2026-09-22 17:57:26,524 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:26,775 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.240[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 12397ms
+2026-09-22 17:57:26,792 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:31,575 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.17.30[0m ([35mPT-DR1A04G-K1[0m) - 16005ms
+2026-09-22 17:57:31,585 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:33,891 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.59[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7367ms
+2026-09-22 17:57:33,901 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:34,590 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.165[0m ([35mDS-7B04HGHI-F1[0m) - 7798ms
+2026-09-22 17:57:34,600 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:35,697 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.129[0m ([35mDS-7B04HGHI-F1[0m) - 4111ms
+2026-09-22 17:57:35,697 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:38,331 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.19[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 4429ms
+2026-09-22 17:57:38,339 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:39,438 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.17.43[0m ([35mPT-DR1A04G-K1[0m) - 22750ms
+2026-09-22 17:57:39,446 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:41,744 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.45[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 7143ms
+2026-09-22 17:57:41,748 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:44,036 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.237[0m ([35mPT-DR1A04G-K1[0m) - 5696ms
+2026-09-22 17:57:44,051 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:44,967 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.5[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 5521ms
+2026-09-22 17:57:44,981 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:47,978 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.8.97[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 12281ms
+2026-09-22 17:57:47,980 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:57:49,381 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.115[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7616ms
+2026-09-22 17:57:49,381 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 17:58:22,495 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.56[0m ([35mUnknown[0m) - 58762ms
+2026-09-22 17:58:22,495 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:01:54,295 | INFO    | src.database | Database pool initialized
+2026-09-22 18:01:54,297 | INFO    | main | [36mStarting setup for 50 DVRs...[0m
+2026-09-22 18:02:01,016 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.87[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6705ms
+2026-09-22 18:02:01,031 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:05,583 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.195[0m ([35mDS-7104HGHI-K1[0m) - 11272ms
+2026-09-22 18:02:05,593 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:07,655 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.240[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6623ms
+2026-09-22 18:02:07,671 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:08,923 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.21.9[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 14612ms
+2026-09-22 18:02:08,925 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:09,497 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.17.43[0m ([35mPT-DR1A04G-K1[0m) - 15186ms
+2026-09-22 18:02:09,512 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:16,068 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.199[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7142ms
+2026-09-22 18:02:16,082 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:17,104 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.172[0m ([35mDS-7104HGHI-K1[0m) - 11510ms
+2026-09-22 18:02:17,104 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:19,878 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.187[0m ([35mDS-7104HGHI-K1[0m) - 10360ms
+2026-09-22 18:02:19,884 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:22,529 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.59[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6447ms
+2026-09-22 18:02:22,537 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:23,148 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.56[0m ([35mPT-DR1A04Q-K1[0m) - 15476ms
+2026-09-22 18:02:23,159 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:24,523 | ERROR   | main | [31m[EXCEPTION][0m 172.17.17.30: 
+2026-09-22 18:02:24,523 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:30,738 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.165[0m ([35mDS-7B04HGHI-F1[0m) - 8194ms
+2026-09-22 18:02:30,754 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:31,469 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.246[0m ([35mDS-7104HGHI-K1[0m) - 11585ms
+2026-09-22 18:02:31,485 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:35,446 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.129[0m ([35mDS-7B04HGHI-F1[0m) - 4692ms
+2026-09-22 18:02:35,460 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:36,121 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.146[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 19017ms
+2026-09-22 18:02:36,129 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:38,439 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.11.176[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 15277ms
+2026-09-22 18:02:38,439 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:40,149 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.58[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 15625ms
+2026-09-22 18:02:40,161 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:40,906 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.19[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 4774ms
+2026-09-22 18:02:40,924 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:47,371 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.11.67[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 15886ms
+2026-09-22 18:02:47,387 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:49,823 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.21.1[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 14363ms
+2026-09-22 18:02:49,823 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:51,540 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.45[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 10616ms
+2026-09-22 18:02:51,540 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:52,069 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.129[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 13630ms
+2026-09-22 18:02:52,071 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:02:58,686 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.248[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8862ms
+2026-09-22 18:02:58,704 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:01,068 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.16.4[0m ([35mDS-7B04HGHI-F1[0m) - 20906ms
+2026-09-22 18:03:01,077 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:01,510 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.88[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 14123ms
+2026-09-22 18:03:01,510 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:04,352 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.8.97[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 12811ms
+2026-09-22 18:03:04,357 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:06,353 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.237[0m ([35mPT-DR1A04G-K1[0m) - 5276ms
+2026-09-22 18:03:06,358 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:10,554 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.116[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 18483ms
+2026-09-22 18:03:10,563 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:11,565 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.231[0m ([35mDS-7104HGHI-K1[0m) - 12859ms
+2026-09-22 18:03:11,577 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:13,153 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.5[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6795ms
+2026-09-22 18:03:13,169 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:14,743 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.126[0m ([35mDS-7104HGHI-K1[0m) - 13233ms
+2026-09-22 18:03:14,761 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:17,786 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.25[0m ([35mDS-7104HGHI-K1[0m) - 13429ms
+2026-09-22 18:03:17,804 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:21,198 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.115[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8029ms
+2026-09-22 18:03:21,204 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:25,798 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.135[0m ([35mDS-7104HGHI-K1[0m) - 4594ms
+2026-09-22 18:03:25,814 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:28,216 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.114[0m ([35mPT-DR1A04G-K1[0m) - 13454ms
+2026-09-22 18:03:28,224 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:29,521 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.16.12[0m ([35mDS-7104HGHI-K1[0m) - 17944ms
+2026-09-22 18:03:29,521 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:33,568 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.32[0m ([35mPT-DR1A04G-K1[0m) - 4047ms
+2026-09-22 18:03:33,586 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:36,737 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.16.32[0m ([35mDS-7104HGHI-K1[0m) - 18932ms
+2026-09-22 18:03:36,737 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:38,250 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.244[0m ([35mPT-DR1A04G-K1[0m) - 10023ms
+2026-09-22 18:03:38,263 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:39,773 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.46[0m ([35mDS-7104HGHI-K1[0m) - 29203ms
+2026-09-22 18:03:39,782 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:42,615 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.113[0m ([35mPT-DR1A04G-K1[0m) - 16800ms
+2026-09-22 18:03:42,631 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:45,212 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.9.7[0m ([35mPT-DR1A04G-K1[0m) - 6948ms
+2026-09-22 18:03:45,216 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:47,531 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.122[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 13944ms
+2026-09-22 18:03:47,533 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:49,005 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.52[0m ([35mPT-DR1A04G-K1[0m) - 6373ms
+2026-09-22 18:03:49,021 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:54,260 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.16.19[0m ([35mDS-7104HGHI-K1[0m) - 17523ms
+2026-09-22 18:03:54,271 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:54,388 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.16[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6854ms
+2026-09-22 18:03:54,388 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:55,835 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.166[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 16050ms
+2026-09-22 18:03:55,835 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:03:58,054 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.12.254[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 12838ms
+2026-09-22 18:03:58,054 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:04:00,723 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.12.246[0m ([35mDS-7104HGHI-K1[0m) - 11702ms
+2026-09-22 18:04:00,726 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-22 18:04:07,747 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.189[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 13473ms
+2026-09-22 18:04:07,753 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:58:09,700 | INFO    | src.database | Database pool initialized
+2026-09-24 11:58:09,714 | INFO    | main | [36mStarting setup for 723 DVRs...[0m
+2026-09-24 11:58:21,220 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.160[0m ([35mPT-DR1A04G-K1[0m) - 11467ms
+2026-09-24 11:58:21,237 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:58:21,446 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.157[0m ([35mPT-DR1A04G-K1[0m) - 11693ms
+2026-09-24 11:58:21,448 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:58:32,899 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.156[0m ([35mPT-DR1A04G-K1[0m) - 11451ms
+2026-09-24 11:58:32,903 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:58:40,304 | ERROR   | main | [31m[EXCEPTION][0m 172.17.15.193: 
+2026-09-24 11:58:40,686 | ERROR   | main | [31m[EXCEPTION][0m 172.17.15.223: 
+2026-09-24 11:58:41,272 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.170: 
+2026-09-24 11:58:41,340 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:58:41,481 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:58:42,115 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:58:51,267 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.187: 
+2026-09-24 11:58:51,296 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:04,283 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.167: 
+2026-09-24 11:59:04,291 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:12,274 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.166: 
+2026-09-24 11:59:12,274 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.161: 
+2026-09-24 11:59:12,274 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.152: 
+2026-09-24 11:59:12,278 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:12,280 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:12,280 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:23,338 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.155: 
+2026-09-24 11:59:23,544 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:34,064 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.176[0m ([35mPT-DR1A04G-K1[0m) - 10497ms
+2026-09-24 11:59:34,164 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:36,280 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.162: 
+2026-09-24 11:59:36,449 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:44,285 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.172: 
+2026-09-24 11:59:44,288 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.150: 
+2026-09-24 11:59:44,289 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.159: 
+2026-09-24 11:59:44,297 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:44,311 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:44,326 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:47,092 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.186[0m ([35mPT-DR1A04G-K1[0m) - 12907ms
+2026-09-24 11:59:47,098 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:55,442 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.195[0m ([35mPT-DR1A04G-K1[0m) - 11130ms
+2026-09-24 11:59:55,458 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 11:59:55,962 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.168[0m ([35mPT-DR1A04G-K1[0m) - 11651ms
+2026-09-24 11:59:55,966 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 12:00:07,192 | WARNING | main | Interrupted by user
+2026-09-24 12:06:05,405 | INFO    | src.database | Database pool initialized
+2026-09-24 12:06:05,409 | INFO    | main | [32mLoaded 5 DVRs into memory. Database connection closed during execution.[0m
+2026-09-24 12:06:09,584 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.109[0m ([35mDS-7B04HGHI-F1[0m) - 4139ms
+2026-09-24 12:06:11,449 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.59[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6004ms
+2026-09-24 12:06:12,713 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.165[0m ([35mDS-7B04HGHI-F1[0m) - 7268ms
+2026-09-24 12:06:17,476 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.30[0m ([35mPT-DR1A04G-K1[0m) - 12031ms
+2026-09-24 12:06:32,744 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.33[0m ([35mDS-7104HGHI-K1[0m) - 27299ms
+2026-09-24 12:06:32,750 | INFO    | main | [36mConnecting to database to save 5 log records in bulk...[0m
+2026-09-24 12:06:32,803 | INFO    | src.database | Database pool initialized
+2026-09-24 12:06:32,815 | INFO    | src.database | Saved/Updated 5 log records
+2026-09-24 12:09:16,799 | INFO    | src.database | Database pool initialized
+2026-09-24 12:09:16,802 | INFO    | main | [32mLoaded 5 DVRs into memory. Database connection closed during execution.[0m
+2026-09-24 12:09:20,494 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.109[0m ([35mDS-7B04HGHI-F1[0m) - 3679ms
+2026-09-24 12:09:23,592 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.59[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6777ms
+2026-09-24 12:09:24,007 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.165[0m ([35mDS-7B04HGHI-F1[0m) - 7191ms
+2026-09-24 12:09:29,471 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.30[0m ([35mPT-DR1A04G-K1[0m) - 12655ms
+2026-09-24 12:09:37,463 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.33[0m ([35mDS-7104HGHI-K1[0m) - 20648ms
+2026-09-24 12:09:37,467 | INFO    | main | [36mConnecting to database to save 5 log records in bulk...[0m
+2026-09-24 12:09:37,496 | INFO    | src.database | Database pool initialized
+2026-09-24 12:09:37,502 | INFO    | src.database | Saved/Updated 5 log records
+2026-09-24 12:09:47,696 | INFO    | src.database | Database pool initialized
+2026-09-24 12:09:47,717 | INFO    | main | [32mLoaded 723 DVRs into memory. Database connection closed during execution.[0m
+2026-09-24 12:09:49,245 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.213[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:09:49,246 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.246[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:09:49,246 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.3[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:09:49,247 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.69[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:09:49,248 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.43[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:09:49,248 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.10[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:09:49,248 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.70[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:09:50,754 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.99[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:09:50,754 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.14[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:09:50,756 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.139[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:09:50,756 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.106[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:09:50,756 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.13[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:09:52,247 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.4[0m ([35mUnknown[0m) - 1489ms
+2026-09-24 12:09:52,248 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.8[0m ([35mUnknown[0m) - 1490ms
+2026-09-24 12:09:52,249 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.249[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:09:53,757 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.20[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:09:53,761 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.12[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:09:55,262 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.248[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:09:56,764 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.226[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:09:56,936 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.244[0m ([35mPT-DR1A04G-K1[0m) - 9197ms
+2026-09-24 12:09:58,271 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.62[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:09:58,429 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.11[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:09:59,830 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.194[0m ([35mPT-DR1A04G-K1[0m) - 10580ms
+2026-09-24 12:09:59,918 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.122[0m ([35mUnknown[0m) - 1488ms
+2026-09-24 12:10:01,297 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.207[0m ([35mPT-DR1A04G-K1[0m) - 10540ms
+2026-09-24 12:10:01,329 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.7[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:10:01,422 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.215[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:10:01,680 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.173[0m ([35mPT-DR1A04G-K1[0m) - 13941ms
+2026-09-24 12:10:01,710 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.158[0m ([35mPT-DR1A04G-K1[0m) - 12460ms
+2026-09-24 12:10:01,902 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.240[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8141ms
+2026-09-24 12:10:02,799 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.232[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:10:02,835 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.6[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:10:02,932 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.227[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:10:03,197 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.244[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:10:03,199 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.9[0m ([35mUnknown[0m) - 1489ms
+2026-09-24 12:10:03,415 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.164[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:10:03,909 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.151[0m ([35mPT-DR1A04G-K1[0m) - 16170ms
+2026-09-24 12:10:04,304 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.87[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:10:04,343 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.250[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:10:04,714 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.136[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:10:04,717 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.196[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:10:05,370 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.188[0m ([35mPT-DR1A04G-K1[0m) - 13120ms
+2026-09-24 12:10:05,418 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.93[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:10:05,799 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.5[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:10:06,212 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.243[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:10:06,214 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.1[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:10:06,873 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.222[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:10:06,922 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.237[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:10:07,300 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.17[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:10:07,729 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.56[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:10:08,382 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.193[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:10:08,798 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.124[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:10:09,212 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.154[0m ([35mUnknown[0m) - 1481ms
+2026-09-24 12:10:09,297 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.190[0m ([35mPT-DR1A04G-K1[0m) - 11022ms
+2026-09-24 12:10:10,308 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.103[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:10:10,715 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.161[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:10:11,795 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.131[0m ([35mUnknown[0m) - 1485ms
+2026-09-24 12:10:12,223 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.166[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:10:13,712 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.98[0m ([35mUnknown[0m) - 1488ms
+2026-09-24 12:10:14,484 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.183[0m ([35mPT-DR1A04G-K1[0m) - 11067ms
+2026-09-24 12:10:14,807 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.205[0m ([35mPT-DR1A04G-K1[0m) - 11873ms
+2026-09-24 12:10:15,224 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.169[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:10:15,835 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.214[0m ([35mPT-DR1A04G-K1[0m) - 11492ms
+2026-09-24 12:10:15,980 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.18[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:10:16,138 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.243[0m ([35mPT-DR1A04G-K1[0m) - 9923ms
+2026-09-24 12:10:16,321 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.159[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:10:16,734 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.240[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:10:17,196 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.199[0m ([35mPT-DR1A04G-K1[0m) - 10273ms
+2026-09-24 12:10:17,473 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.91[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:10:17,634 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.4[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:10:18,230 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.207[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:10:18,710 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.33[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:10:19,156 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.44[0m ([35mUnknown[0m) - 1521ms
+2026-09-24 12:10:19,733 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.34[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:10:19,959 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.218[0m ([35mPT-DR1A04G-K1[0m) - 11576ms
+2026-09-24 12:10:20,636 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.127[0m ([35mUnknown[0m) - 1477ms
+2026-09-24 12:10:20,779 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.24[0m ([35mPT-DR1A04G-K1[0m) - 11482ms
+2026-09-24 12:10:21,260 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.34[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:10:21,466 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.5[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:10:22,229 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.225[0m ([35mPT-DR1A04G-K1[0m) - 31472ms
+2026-09-24 12:10:22,267 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.35[0m ([35mUnknown[0m) - 1486ms
+2026-09-24 12:10:22,469 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.240[0m ([35mPT-DR1A04G-K1[0m) - 10673ms
+2026-09-24 12:10:22,981 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.165[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:10:23,733 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.241[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:10:23,969 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.164[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:10:24,464 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.185[0m ([35mUnknown[0m) - 1480ms
+2026-09-24 12:10:25,215 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.126[0m ([35mDS-7104HGHI-K1[0m) - 4578ms
+2026-09-24 12:10:25,467 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.173[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:10:25,976 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.28[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:10:26,102 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.197[0m ([35mPT-DR1A04G-K1[0m) - 10266ms
+2026-09-24 12:10:26,812 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.13[0m ([35mPT-DR1A04G-K1[0m) - 10490ms
+2026-09-24 12:10:26,983 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.182[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:10:27,476 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.6[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:10:27,608 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.208[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:10:28,310 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.81[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:10:28,489 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.35[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:10:28,620 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.25[0m ([35mPT-DR1A04G-K1[0m) - 11145ms
+2026-09-24 12:10:28,987 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.245[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:10:29,087 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.86[0m ([35mUnknown[0m) - 1476ms
+2026-09-24 12:10:29,208 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.4[0m ([35mPT-DR1A04G-K1[0m) - 10498ms
+2026-09-24 12:10:29,826 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.99[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:10:30,140 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.85[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:10:30,491 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.112[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:10:30,720 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.90[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:10:31,339 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.111[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:10:31,640 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.234[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:10:32,002 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.92[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:10:32,222 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.113[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:10:32,535 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.239[0m ([35mPT-DR1A04G-K1[0m) - 10268ms
+2026-09-24 12:10:32,801 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.15[0m ([35mPT-DR1A04G-K1[0m) - 11540ms
+2026-09-24 12:10:33,153 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.76[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:10:33,504 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.109[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:10:34,025 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.91[0m ([35mUnknown[0m) - 1488ms
+2026-09-24 12:10:34,303 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.115[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:10:35,018 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.82[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:10:35,052 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.216[0m ([35mPT-DR1A04G-K1[0m) - 11317ms
+2026-09-24 12:10:35,542 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.21.2[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:10:35,801 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.223[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:10:36,511 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.89[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:10:36,565 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.125[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:10:37,290 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.170[0m ([35mUnknown[0m) - 1487ms
+2026-09-24 12:10:38,034 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.21.5[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:10:38,800 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.137[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:10:38,817 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.224[0m ([35mPT-DR1A04G-K1[0m) - 9730ms
+2026-09-24 12:10:38,866 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.6[0m ([35mPT-DR1A04G-K1[0m) - 10375ms
+2026-09-24 12:10:39,532 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.21.7[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:10:40,309 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.249[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:10:40,310 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.138[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:10:40,343 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.21.3[0m ([35mUnknown[0m) - 1476ms
+2026-09-24 12:10:41,376 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.36[0m ([35mPT-DR1A04G-K1[0m) - 8223ms
+2026-09-24 12:10:41,445 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.27[0m ([35mPT-DR1A04G-K1[0m) - 10105ms
+2026-09-24 12:10:41,813 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.21.13[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:10:41,813 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.141[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:10:42,401 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.10[0m ([35mUnknown[0m) - 951ms
+2026-09-24 12:10:42,881 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.86[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:10:43,302 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.92[0m ([35mUnknown[0m) - 1487ms
+2026-09-24 12:10:43,889 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.49[0m ([35mUnknown[0m) - 1488ms
+2026-09-24 12:10:44,807 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.93[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:10:45,404 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.118[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:10:45,629 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.236[0m ([35mPT-DR1A04G-K1[0m) - 13402ms
+2026-09-24 12:10:46,378 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.41[0m ([35mPT-DR1A04G-K1[0m) - 6845ms
+2026-09-24 12:10:46,844 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.73[0m ([35mUnknown[0m) - 1212ms
+2026-09-24 12:10:46,908 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.90[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:10:47,578 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.38[0m ([35mUnknown[0m) - 668ms
+2026-09-24 12:10:47,891 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.40[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:10:48,352 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.101[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:10:48,810 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.34[0m ([35mPT-DR1A04G-K1[0m) - 13267ms
+2026-09-24 12:10:49,328 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.173[0m ([35mUnknown[0m) - 976ms
+2026-09-24 12:10:49,408 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.99[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:10:50,859 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.24[0m ([35mUnknown[0m) - 1530ms
+2026-09-24 12:10:50,905 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.169[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:10:51,485 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.83[0m ([35mPT-DR1A04G-K1[0m) - 9670ms
+2026-09-24 12:10:52,407 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.68[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:10:52,982 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.235[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:10:53,231 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.86[0m ([35mPT-DR1A04G-K1[0m) - 10349ms
+2026-09-24 12:10:53,912 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.66[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:10:54,476 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.42[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:10:54,738 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.21.9[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:10:55,915 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.58[0m ([35mPT-DR1A04G-K1[0m) - 11108ms
+2026-09-24 12:10:55,974 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.122[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:10:56,244 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.194[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:10:57,468 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.124[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:10:57,769 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.241[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:10:59,281 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.120[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:11:00,759 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.34[0m ([35mUnknown[0m) - 1476ms
+2026-09-24 12:11:03,960 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.74[0m ([35mPT-DR1A04Q-K1[0m) - 16380ms
+2026-09-24 12:11:04,714 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.76[0m ([35mPT-DR1A04G-K1[0m) - 13848ms
+2026-09-24 12:11:05,462 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.113[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:11:05,785 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.84[0m ([35mPT-DR1A04G-K1[0m) - 11872ms
+2026-09-24 12:11:06,225 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.108[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:11:07,276 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.117[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:11:07,740 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.202[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:11:08,714 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.91[0m ([35mPT-DR1A04G-K1[0m) - 12798ms
+2026-09-24 12:11:09,236 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.115[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:11:10,239 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.48[0m ([35mUnknown[0m) - 1525ms
+2026-09-24 12:11:10,747 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.37[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:11:11,742 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.133[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:11:12,247 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.202[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:11:13,213 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.56[0m ([35mUnknown[0m) - 1470ms
+2026-09-24 12:11:13,628 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.63[0m ([35mPT-DR1A04G-K1[0m) - 12868ms
+2026-09-24 12:11:13,753 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.135[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:11:14,739 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.179[0m ([35mUnknown[0m) - 1526ms
+2026-09-24 12:11:15,271 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.166[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:11:16,248 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.174[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:11:17,772 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.176[0m ([35mUnknown[0m) - 1524ms
+2026-09-24 12:11:19,262 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.60[0m ([35mUnknown[0m) - 1488ms
+2026-09-24 12:11:19,294 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.12[0m ([35mPT-DR1A04G-K1[0m) - 54071ms
+2026-09-24 12:11:20,424 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.201[0m ([35mPT-DR1A04G-K1[0m) - 14962ms
+2026-09-24 12:11:20,800 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.167[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:11:21,927 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.77[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:11:23,420 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.90[0m ([35mPT-DR1A04G-K1[0m) - 16141ms
+2026-09-24 12:11:23,425 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.169[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:11:24,922 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.59[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:11:25,422 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.54[0m ([35mPT-DR1A04G-K1[0m) - 11794ms
+2026-09-24 12:11:26,421 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.179[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:11:27,915 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.181[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:11:31,302 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.10[0m ([35mPT-DR1A04G-K1[0m) - 54735ms
+2026-09-24 12:11:32,800 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.142[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:11:32,812 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.126[0m ([35mPT-DR1A04G-K1[0m) - 17523ms
+2026-09-24 12:11:33,809 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.29[0m ([35mPT-DR1A04G-K1[0m) - 13009ms
+2026-09-24 12:11:34,301 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.187[0m ([35mUnknown[0m) - 1486ms
+2026-09-24 12:11:34,317 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.44[0m ([35mPT-DR1A04G-K1[0m) - 53973ms
+2026-09-24 12:11:35,809 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.141[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:11:35,809 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.199[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:11:40,129 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.54[0m ([35mPT-DR1A04G-K1[0m) - 16703ms
+2026-09-24 12:11:41,633 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.192[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:11:41,893 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.55[0m ([35mPT-DR1A04G-K1[0m) - 22630ms
+2026-09-24 12:11:42,283 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.197[0m ([35mPT-DR1A04G-K1[0m) - 16860ms
+2026-09-24 12:11:43,403 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.114[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:11:44,901 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.168[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:11:45,440 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.19.2[0m ([35mPT-DR1A04G-K1[0m) - 12633ms
+2026-09-24 12:11:46,947 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.124[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:11:48,454 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.163[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:11:49,960 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.115[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:11:51,466 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.162[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:11:51,974 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.19.16[0m ([35mPT-DR1A04G-K1[0m) - 16165ms
+2026-09-24 12:11:52,135 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.192[0m ([35mPT-DR1A04G-K1[0m) - 24217ms
+2026-09-24 12:11:52,973 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.96[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:11:52,989 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.9.2[0m ([35mPT-DR1A04G-K1[0m) - 17180ms
+2026-09-24 12:11:53,468 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.174[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:11:53,639 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.135[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:11:54,466 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.240[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:11:54,466 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.203[0m ([35mUnknown[0m) - 1476ms
+2026-09-24 12:11:54,978 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.5.16[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:11:55,153 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.182[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:11:55,887 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.198[0m ([35mPT-DR1A04G-K1[0m) - 14253ms
+2026-09-24 12:11:55,979 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.197[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:11:55,979 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.77[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:11:56,662 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.123[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:11:56,666 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.92[0m ([35mPT-DR1A04G-K1[0m) - 59198ms
+2026-09-24 12:11:57,332 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.81[0m ([35mPT-DR1A04G-K1[0m) - 68522ms
+2026-09-24 12:11:57,491 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.56[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:11:57,491 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.52[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:11:58,161 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.116[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:11:58,193 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.139[0m ([35mUnknown[0m) - 1527ms
+2026-09-24 12:11:58,831 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.144[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:11:58,990 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.184[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:11:58,990 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.167[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:11:59,664 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.199[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:11:59,666 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.111[0m ([35mUnknown[0m) - 1470ms
+2026-09-24 12:12:00,326 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.18[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:12:00,463 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.198[0m ([35mUnknown[0m) - 1471ms
+2026-09-24 12:12:00,463 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.112[0m ([35mUnknown[0m) - 1471ms
+2026-09-24 12:12:01,175 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.195[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:12:01,175 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.53[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:12:01,806 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.19[0m ([35mPT-DR1A04G-K1[0m) - 19523ms
+2026-09-24 12:12:01,828 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.200[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:01,986 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.109[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:12:01,986 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.4[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:12:02,687 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.111[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:02,687 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.95[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:03,311 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.3[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:12:03,343 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.110[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:03,502 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.178[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:03,502 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.155[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:04,187 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.147[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:04,187 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.21.4[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:04,348 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.21.10[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 19446ms
+2026-09-24 12:12:04,794 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.140[0m ([35mUnknown[0m) - 1480ms
+2026-09-24 12:12:04,858 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.179[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:05,017 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.136[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:05,017 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.156[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:05,485 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.56[0m ([35mPT-DR1A04Q-K1[0m) - 9598ms
+2026-09-24 12:12:05,705 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.176[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:05,705 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.111[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:05,864 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.185[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:06,312 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.113[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:12:06,376 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.236[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:12:06,519 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.64[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:06,519 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.112[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:06,983 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.92[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:12:07,206 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.60[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:07,208 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.179[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:07,365 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.62[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:07,834 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.151[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:12:07,895 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.162[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:12:08,022 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.138[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:12:08,022 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.242[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:12:08,484 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.241[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:08,709 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.235[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:08,709 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.244[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:08,869 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.152[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:12:09,345 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.157[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:12:09,409 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.201[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:09,537 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.247[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:09,539 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.173[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:09,983 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.181[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:10,206 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.58[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:12:10,206 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.167[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:12:10,245 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.43[0m ([35mPT-DR1A04G-K1[0m) - 15266ms
+2026-09-24 12:12:10,380 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.105[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:10,862 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.164[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:12:10,926 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.231[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:11,037 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.152[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:12:11,037 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.232[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:12:11,500 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.163[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:12:11,723 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.171[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:12:11,725 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.234[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:12:11,770 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.236[0m ([35mUnknown[0m) - 1525ms
+2026-09-24 12:12:11,881 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.159[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:12,377 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.238[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:12,424 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.250[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:12,535 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.240[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:12,535 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.172[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:13,015 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.55[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:13,223 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.57[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:13,223 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.191[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:13,271 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.155[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:13,397 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.8.61[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:13,894 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.174[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:12:13,941 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.203[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:14,052 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.216[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:14,052 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.187[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:14,527 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.188[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:14,734 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.208[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:14,734 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.180[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:14,781 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.219[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:14,908 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.153[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:15,405 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.220[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:15,452 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.190[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:12:15,563 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.184[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:15,563 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.175[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:16,043 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.118[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:16,235 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.110[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:16,299 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.192[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:12:16,410 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.111[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:12:16,925 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.47[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:12:16,972 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.175[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:12:17,067 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.199[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:17,067 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.95[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:17,564 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.195[0m ([35mUnknown[0m) - 1521ms
+2026-09-24 12:12:17,740 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.93[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:12:17,819 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.194[0m ([35mUnknown[0m) - 1520ms
+2026-09-24 12:12:17,915 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.94[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:12:18,427 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.12.218[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:12:18,571 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.132[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:18,571 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.213[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:12:19,065 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.164[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:19,255 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.125[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:19,318 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.177[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:19,451 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.143[0m ([35mUnknown[0m) - 1535ms
+2026-09-24 12:12:19,942 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.176[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:20,086 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.189[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:20,086 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.195[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:20,564 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.31[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:20,771 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.202[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:20,836 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.75[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:20,963 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.190[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:12:21,448 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.74[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:12:21,585 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.167[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:21,585 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.72[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:22,080 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.198[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:22,288 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.76[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:22,335 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.200[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:22,477 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.207[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:22,960 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.161[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:12:23,071 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.166[0m ([35mUnknown[0m) - 1485ms
+2026-09-24 12:12:23,071 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.188[0m ([35mUnknown[0m) - 1485ms
+2026-09-24 12:12:23,582 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.168[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:23,789 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.152[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:23,837 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.170[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:23,979 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.155[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:12:24,456 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.192[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:12:24,584 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.162[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:24,586 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.183[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:25,096 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.159[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:25,305 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.181[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:25,353 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.150[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:25,495 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.169[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:12:25,957 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.172[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:26,100 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.186[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:26,595 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.206[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:26,803 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.186[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:26,867 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.201[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:26,994 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.163[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:12:27,457 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.204[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:27,616 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.168[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:28,095 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.191[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:28,351 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.171[0m ([35mUnknown[0m) - 1484ms
+2026-09-24 12:12:28,509 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.185[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:28,957 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.182[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:29,044 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.176[0m ([35mPT-DR1A04G-K1[0m) - 4458ms
+2026-09-24 12:12:29,105 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.184[0m ([35mUnknown[0m) - 1489ms
+2026-09-24 12:12:29,592 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.173[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:12:29,845 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.154[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:12:30,020 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.193[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:30,467 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.241[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:12:30,546 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.166[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:12:30,626 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.221[0m ([35mUnknown[0m) - 1520ms
+2026-09-24 12:12:31,105 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.174[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:31,359 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.192[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:12:31,361 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.195[0m ([35mPT-DR1A04G-K1[0m) - 4555ms
+2026-09-24 12:12:31,518 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.165[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:12:31,982 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.193[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:32,061 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.199[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:32,126 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.182[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:32,633 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.208[0m ([35mUnknown[0m) - 1528ms
+2026-09-24 12:12:32,886 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.180[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:33,014 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.181[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:12:33,474 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.210[0m ([35mUnknown[0m) - 1490ms
+2026-09-24 12:12:33,583 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.191[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:12:33,647 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.2[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:12:34,142 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.248[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:12:34,396 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.185[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:34,524 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.230[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:12:34,989 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.203[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:35,084 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.16[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:35,163 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.175[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:35,654 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.250[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:35,908 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.5[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:36,017 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.231[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:12:36,479 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.35[0m ([35mUnknown[0m) - 1487ms
+2026-09-24 12:12:36,589 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.1[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:12:36,669 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.61[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:12:37,137 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.217[0m ([35mUnknown[0m) - 1482ms
+2026-09-24 12:12:37,417 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.62[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:12:37,529 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.242[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:37,993 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.47[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:38,105 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.191[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:38,184 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.204[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:38,660 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.211[0m ([35mUnknown[0m) - 1523ms
+2026-09-24 12:12:38,931 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.83[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:12:39,011 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.177[0m ([35mPT-DR1A04G-K1[0m) - 65201ms
+2026-09-24 12:12:39,013 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.210[0m ([35mUnknown[0m) - 1484ms
+2026-09-24 12:12:39,519 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.88[0m ([35mUnknown[0m) - 1523ms
+2026-09-24 12:12:39,694 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.139[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:40,146 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.212[0m ([35mUnknown[0m) - 1486ms
+2026-09-24 12:12:40,425 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.100[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:12:40,536 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.189[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:12:41,028 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.17[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:12:41,651 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.14[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:12:41,924 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.1[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:42,051 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.23[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:12:43,136 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.22[0m ([35mUnknown[0m) - 1485ms
+2026-09-24 12:12:43,545 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.177[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:12:43,803 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.247[0m ([35mPT-DR1A04G-K1[0m) - 12444ms
+2026-09-24 12:12:44,055 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.248[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 5041ms
+2026-09-24 12:12:44,657 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.2[0m ([35mUnknown[0m) - 1520ms
+2026-09-24 12:12:45,054 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.8[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:12:45,564 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.11[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:12:46,264 | ERROR   | main | [31m[EXCEPTION][0m 172.17.12.177: 
+2026-09-24 12:12:46,440 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.244[0m ([35mPT-DR1A04G-K1[0m) - 4516ms
+2026-09-24 12:12:46,565 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.121[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:47,077 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.15[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:47,778 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.246[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:48,064 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.2[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:48,286 | ERROR   | main | [31m[EXCEPTION][0m 172.17.16.135: 
+2026-09-24 12:12:48,589 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.21[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:49,210 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.231[0m ([35mDS-7104HGHI-K1[0m) - 9514ms
+2026-09-24 12:12:49,290 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.233[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:49,553 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.9[0m ([35mUnknown[0m) - 1489ms
+2026-09-24 12:12:50,097 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.243[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:12:50,701 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.20[0m ([35mUnknown[0m) - 1490ms
+2026-09-24 12:12:50,798 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.22[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:12:51,047 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.229[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:12:51,599 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.30[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:12:51,883 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.235[0m ([35mPT-DR1A04G-K1[0m) - 13778ms
+2026-09-24 12:12:52,222 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.209[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:12:52,302 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.249[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:12:52,572 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.19[0m ([35mUnknown[0m) - 1524ms
+2026-09-24 12:12:53,099 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.13[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:53,400 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.228[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:12:53,640 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.32[0m ([35mDS-7104HGHI-K1[0m) - 12611ms
+2026-09-24 12:12:53,734 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.239[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:53,813 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.220[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:54,101 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.26[0m ([35mUnknown[0m) - 1528ms
+2026-09-24 12:12:54,609 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.238[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:54,913 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.238[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:12:55,142 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.3[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:12:55,310 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.21[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:12:55,611 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.232[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:56,118 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.219[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:12:56,388 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.5[0m ([35mUnknown[0m) - 1475ms
+2026-09-24 12:12:56,643 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.26[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:12:57,088 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.39[0m ([35mUnknown[0m) - 1476ms
+2026-09-24 12:12:57,629 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.246[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:12:58,139 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.14[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:12:59,140 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.11[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:12:59,651 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.28[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:13:00,651 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.99[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:13:01,142 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.37[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:13:02,640 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.33[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:13:04,150 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.102[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:13:04,234 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.234[0m ([35mDS-7104HGHI-K1[0m) - 19577ms
+2026-09-24 12:13:04,439 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.16[0m ([35mDS-7104HGHI-K1[0m) - 20636ms
+2026-09-24 12:13:05,649 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.38[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:13:05,749 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.116[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:13:05,852 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.247[0m ([35mDS-7104HGHI-K1[0m) - 19412ms
+2026-09-24 12:13:05,918 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.32[0m ([35mUnknown[0m) - 1478ms
+2026-09-24 12:13:07,265 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.113[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:13:07,360 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.29[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:13:08,760 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.110[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:13:08,855 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.49[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:13:10,365 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.80[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:13:11,863 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.35[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:13:13,707 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.8[0m ([35mDS-7104HGHI-K1[0m) - 19973ms
+2026-09-24 12:13:15,208 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.235[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:13:15,423 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.237[0m ([35mPT-DR1A04G-K1[0m) - 27136ms
+2026-09-24 12:13:15,913 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.101[0m ([35mDS-7104HGHI-K1[0m) - 15261ms
+2026-09-24 12:13:16,499 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.9[0m ([35mPT-DR1A04G-K1[0m) - 20111ms
+2026-09-24 12:13:16,705 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.59[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7944ms
+2026-09-24 12:13:16,720 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.42[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:13:17,250 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.109[0m ([35mDS-7B04HGHI-F1[0m) - 5384ms
+2026-09-24 12:13:17,420 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.107[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:13:18,011 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.47[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:13:18,234 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.7.129[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:13:18,234 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.109[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:13:18,773 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.48[0m ([35mUnknown[0m) - 1523ms
+2026-09-24 12:13:19,523 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.105[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:13:19,713 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.55[0m ([35mUnknown[0m) - 1477ms
+2026-09-24 12:13:20,281 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.98[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:13:21,023 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.82[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:13:21,768 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.30[0m ([35mPT-DR1A04G-K1[0m) - 15842ms
+2026-09-24 12:13:21,777 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.102[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:13:22,515 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.73[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:13:23,248 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.7.165[0m ([35mDS-7B04HGHI-F1[0m) - 7825ms
+2026-09-24 12:13:23,280 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.103[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:13:23,424 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.19[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 6003ms
+2026-09-24 12:13:24,032 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.46[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:13:24,794 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.101[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:13:24,921 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.65[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:13:26,292 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.106[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:13:26,428 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.72[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:13:27,372 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.45[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 9135ms
+2026-09-24 12:13:27,927 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.100[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:13:28,158 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.237[0m ([35mPT-DR1A04G-K1[0m) - 6390ms
+2026-09-24 12:13:28,897 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.64[0m ([35mUnknown[0m) - 1525ms
+2026-09-24 12:13:29,660 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.31[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:13:30,393 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.87[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:13:31,141 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.97[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 11427ms
+2026-09-24 12:13:31,729 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.5[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8480ms
+2026-09-24 12:13:31,905 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.69[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:13:32,652 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.31[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:13:32,678 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.24[0m ([35mDS-7104HGHI-K1[0m) - 37364ms
+2026-09-24 12:13:32,796 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.32[0m ([35mPT-DR1A04G-K1[0m) - 4868ms
+2026-09-24 12:13:33,136 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.115[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 9104ms
+2026-09-24 12:13:33,416 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.93[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:13:34,164 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.45[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:13:34,307 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.76[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:13:34,657 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.62[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:13:35,681 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.68[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:13:35,802 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.71[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:13:37,171 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.92[0m ([35mUnknown[0m) - 1490ms
+2026-09-24 12:13:37,292 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.69[0m ([35mUnknown[0m) - 1490ms
+2026-09-24 12:13:38,390 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.33[0m ([35mDS-7104HGHI-K1[0m) - 32740ms
+2026-09-24 12:13:38,579 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.9.7[0m ([35mPT-DR1A04G-K1[0m) - 8916ms
+2026-09-24 12:13:38,800 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.73[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:13:39,898 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.78[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:13:40,296 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.78[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:13:40,962 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.20.52[0m ([35mPT-DR1A04G-K1[0m) - 9233ms
+2026-09-24 12:13:41,406 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.70[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:13:42,057 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.87[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8640ms
+2026-09-24 12:13:42,484 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.74[0m ([35mUnknown[0m) - 1521ms
+2026-09-24 12:13:42,739 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.16[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 10061ms
+2026-09-24 12:13:42,930 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.80[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:13:42,957 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.199[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8298ms
+2026-09-24 12:13:43,997 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.85[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:13:44,235 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.68[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:13:44,453 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.96[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:13:45,509 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.79[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:13:45,670 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.146[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8496ms
+2026-09-24 12:13:45,783 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.128[0m ([35mDS-7104HGHI-K1[0m) - 19490ms
+2026-09-24 12:13:45,959 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.91[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:13:47,018 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.88[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:13:47,281 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.88[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:13:47,464 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.93[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:13:48,766 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.86[0m ([35mUnknown[0m) - 1484ms
+2026-09-24 12:13:48,976 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.89[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:13:50,024 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.129[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7967ms
+2026-09-24 12:13:50,486 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.66[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:13:50,964 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.88[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8033ms
+2026-09-24 12:13:51,535 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.95[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:13:52,221 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.114[0m ([35mPT-DR1A04G-K1[0m) - 5202ms
+2026-09-24 12:13:52,316 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.17.7[0m ([35mPT-DR1A04G-K1[0m) - 55227ms
+2026-09-24 12:13:52,475 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.71[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:13:52,839 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.116[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 8604ms
+2026-09-24 12:13:53,013 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.94[0m ([35mUnknown[0m) - 1478ms
+2026-09-24 12:13:53,801 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.72[0m ([35mUnknown[0m) - 1483ms
+2026-09-24 12:13:53,985 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.232[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:13:54,524 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.154[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:13:55,272 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.11.176[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 16678ms
+2026-09-24 12:13:55,303 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.33[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:13:56,050 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.152[0m ([35mUnknown[0m) - 1525ms
+2026-09-24 12:13:56,764 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.57[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:13:56,909 | INFO    | main | [32m[1m[SUCCESS][0m [36m172.17.11.67[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 16613ms
+2026-09-24 12:13:57,542 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.145[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:13:58,261 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.51[0m ([35mUnknown[0m) - 1496ms
+2026-09-24 12:13:58,626 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.113[0m ([35mPT-DR1A04G-K1[0m) - 9858ms
+2026-09-24 12:13:59,055 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.148[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:13:59,499 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.122[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 9013ms
+2026-09-24 12:13:59,786 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.38[0m ([35mUnknown[0m) - 1525ms
+2026-09-24 12:14:00,563 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.140[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:14:01,007 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.13.238[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:14:01,214 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.12.246[0m ([35mDS-7104HGHI-K1[0m) - 7228ms
+2026-09-24 12:14:01,977 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.46[0m ([35mDS-7104HGHI-K1[0m) - 16306ms
+2026-09-24 12:14:02,046 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.149[0m ([35mUnknown[0m) - 1482ms
+2026-09-24 12:14:02,247 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.8.166[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 10024ms
+2026-09-24 12:14:02,288 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.195[0m ([35mDS-7104HGHI-K1[0m) - 5378ms
+2026-09-24 12:14:02,499 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.22[0m ([35mUnknown[0m) - 1489ms
+2026-09-24 12:14:03,023 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.12.254[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 10183ms
+2026-09-24 12:14:03,338 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.11.189[0m ([35mDS-7A08HGHI-F1\ECO[0m) - 8034ms
+2026-09-24 12:14:03,480 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.186[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:14:03,545 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.13.197[0m ([35mUnknown[0m) - 1488ms
+2026-09-24 12:14:03,797 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.153[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:14:04,004 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.26[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:14:04,407 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.172[0m ([35mDS-7104HGHI-K1[0m) - 5780ms
+2026-09-24 12:14:04,693 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.246[0m ([35mDS-7104HGHI-K1[0m) - 3479ms
+2026-09-24 12:14:04,862 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.185[0m ([35mUnknown[0m) - 1524ms
+2026-09-24 12:14:04,976 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.36[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:14:05,307 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.94[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:14:05,488 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.14.187[0m ([35mDS-7104HGHI-K1[0m) - 5698ms
+2026-09-24 12:14:05,514 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.105[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:14:06,198 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.159[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:14:06,348 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.106[0m ([35mUnknown[0m) - 1485ms
+2026-09-24 12:14:06,792 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.206[0m ([35mUnknown[0m) - 1483ms
+2026-09-24 12:14:06,981 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.103[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:14:07,698 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.212[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:14:07,841 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.123[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:14:08,495 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.196[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:14:09,210 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.170[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:14:10,004 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.200[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:14:10,006 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.58[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 7759ms
+2026-09-24 12:14:10,013 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.21.1[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6989ms
+2026-09-24 12:14:11,531 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.150[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:14:11,977 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.25[0m ([35mDS-7104HGHI-K1[0m) - 7569ms
+2026-09-24 12:14:13,480 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.189[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:14:14,996 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.137[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:14:16,500 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.245[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:14:17,129 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.4[0m ([35mDS-7B04HGHI-F1[0m) - 13583ms
+2026-09-24 12:14:17,414 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.12[0m ([35mDS-7104HGHI-K1[0m) - 12438ms
+2026-09-24 12:14:18,007 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.220[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:14:18,631 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.200[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:14:18,919 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.237[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:14:19,122 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.19[0m ([35mDS-7104HGHI-K1[0m) - 13608ms
+2026-09-24 12:14:19,516 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.208[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:14:20,118 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.147[0m ([35mUnknown[0m) - 1487ms
+2026-09-24 12:14:20,515 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.35[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:14:20,635 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.198[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:14:21,040 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.178[0m ([35mUnknown[0m) - 1523ms
+2026-09-24 12:14:21,620 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.27[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:14:22,027 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.227[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:14:22,154 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.201[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:14:23,122 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.187[0m ([35mUnknown[0m) - 1502ms
+2026-09-24 12:14:23,550 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.138[0m ([35mUnknown[0m) - 1523ms
+2026-09-24 12:14:24,645 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.205[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:14:25,044 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.172[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:14:26,549 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.214[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:14:28,041 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.127[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:14:29,546 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.115[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:14:30,789 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.6[0m ([35mDS-7104HGHI-K1[0m) - 20784ms
+2026-09-24 12:14:31,061 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.217[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:14:32,284 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.185[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:14:32,571 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.111[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:14:33,761 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.197[0m ([35mUnknown[0m) - 1476ms
+2026-09-24 12:14:34,080 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.173[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:14:34,896 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.18[0m ([35mDS-7104HGHI-K1[0m) - 28104ms
+2026-09-24 12:14:35,585 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.192[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:14:35,858 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.29[0m ([35mDS-7104HGHI-K1[0m) - 24326ms
+2026-09-24 12:14:36,423 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.124[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:14:37,367 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.224[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:14:37,937 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.194[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:14:38,512 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.17[0m ([35mDS-7104HGHI-K1[0m) - 17472ms
+2026-09-24 12:14:39,295 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.100[0m ([35mDS-7B04HGHI-F1[0m) - 17141ms
+2026-09-24 12:14:39,450 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.183[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:14:40,037 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.143[0m ([35mUnknown[0m) - 1523ms
+2026-09-24 12:14:40,954 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.219[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:14:41,509 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.183[0m ([35mUnknown[0m) - 1472ms
+2026-09-24 12:14:43,019 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.147[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:14:43,672 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.250[0m ([35mDS-7104HGHI-K1[0m) - 35831ms
+2026-09-24 12:14:44,039 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.97[0m ([35mDS-7B04HGHI-F1[0m) - 19393ms
+2026-09-24 12:14:44,540 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.189[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:14:45,539 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.209[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:14:46,063 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.176[0m ([35mUnknown[0m) - 1522ms
+2026-09-24 12:14:47,460 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.108[0m ([35mDS-7B04HGHI-F1[0m) - 13698ms
+2026-09-24 12:14:47,584 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.207[0m ([35mUnknown[0m) - 1521ms
+2026-09-24 12:14:48,980 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.182[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:14:50,467 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.190[0m ([35mUnknown[0m) - 1486ms
+2026-09-24 12:14:50,841 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.76[0m ([35mDS-7B04HGHI-F1[0m) - 11546ms
+2026-09-24 12:14:51,984 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.187[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:14:53,478 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.195[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:14:53,795 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.79[0m ([35mPT-DR1A04G-K1[0m) - 16428ms
+2026-09-24 12:14:54,991 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.181[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:14:56,483 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.225[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:14:57,895 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.104[0m ([35mPT-DR1A04Q-K1[0m) - 12355ms
+2026-09-24 12:14:57,991 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.190[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:14:58,483 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.211[0m ([35mPT-DR1A04Q-K1[0m) - 10898ms
+2026-09-24 12:14:58,658 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.81[0m ([35mPT-DR1A04G-K1[0m) - 14974ms
+2026-09-24 12:14:59,340 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.75[0m ([35mPT-DR1A04G-K1[0m) - 18383ms
+2026-09-24 12:14:59,404 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.153[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:14:59,467 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.215[0m ([35mUnknown[0m) - 1476ms
+2026-09-24 12:15:00,007 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.186[0m ([35mUnknown[0m) - 1524ms
+2026-09-24 12:15:00,738 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.107[0m ([35mDS-7104HGHI-K1[0m) - 25153ms
+2026-09-24 12:15:00,865 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.213[0m ([35mUnknown[0m) - 1524ms
+2026-09-24 12:15:00,911 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.171[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:15:00,977 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.148[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:15:01,160 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.15.222[0m ([35mPT-DR1A04Q-K1[0m) - 10318ms
+2026-09-24 12:15:01,517 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.223[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:15:02,248 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.195[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:15:02,393 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.193[0m ([35mUnknown[0m) - 1482ms
+2026-09-24 12:15:02,485 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.179[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:15:02,708 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.171[0m ([35mPT-DR1A04G-K1[0m) - 8908ms
+2026-09-24 12:15:03,026 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.160[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:15:03,744 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.180[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:15:03,887 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.178[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:15:03,979 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.157[0m ([35mUnknown[0m) - 1493ms
+2026-09-24 12:15:04,212 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.202[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:15:04,379 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.136[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 55164ms
+2026-09-24 12:15:05,258 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.170[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:15:05,397 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.132[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:15:05,468 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.198[0m ([35mUnknown[0m) - 1489ms
+2026-09-24 12:15:05,729 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.187[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:15:05,888 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.191[0m ([35mUnknown[0m) - 1492ms
+2026-09-24 12:15:06,984 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.237[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:15:07,397 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.167[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:15:07,848 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.200[0m ([35mPT-DR1A04G-K1[0m) - 9190ms
+2026-09-24 12:15:08,491 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.236[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:15:09,385 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.156[0m ([35mPT-DR1A04G-K1[0m) - 3988ms
+2026-09-24 12:15:11,804 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.196[0m ([35mPT-DR1A04Q-K1[0m) - 10644ms
+2026-09-24 12:15:12,326 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.18.135[0m ([35mPT-DR1A04G-K1[0m) - 62313ms
+2026-09-24 12:15:14,346 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.175[0m ([35mPT-DR1A04G-K1[0m) - 13479ms
+2026-09-24 12:15:14,560 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.165[0m ([35mPT-DR1A04G-K1[0m) - 11534ms
+2026-09-24 12:15:14,726 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.147[0m ([35mPT-DR1A04G-K1[0m) - 9468ms
+2026-09-24 12:15:17,654 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.204[0m ([35mPT-DR1A04G-K1[0m) - 11924ms
+2026-09-24 12:15:17,663 | INFO    | main | [36mConnecting to database to save 723 log records in bulk...[0m
+2026-09-24 12:15:17,714 | INFO    | src.database | Database pool initialized
+2026-09-24 12:15:17,764 | INFO    | src.database | Saved/Updated 723 log records
+2026-09-24 12:27:26,676 | INFO    | src.database | Database pool initialized
+2026-09-24 12:27:39,333 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 12:50:30,729 | INFO    | src.database | Database pool initialized
+2026-09-24 12:50:30,749 | INFO    | main | [32mLoaded 723 DVRs into memory. Database connection closed during execution.[0m
+2026-09-24 12:50:32,272 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.246[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:50:32,272 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.3[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:50:32,273 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.69[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:50:32,274 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.43[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:50:32,275 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.10[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:50:32,275 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.20.70[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:50:33,789 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.99[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:50:33,790 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.14[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:50:33,791 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.106[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:50:33,791 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.13[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:50:34,786 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.244[0m ([35mPT-DR1A04G-K1[0m) - 4013ms
+2026-09-24 12:50:35,017 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.173[0m ([35mPT-DR1A04G-K1[0m) - 4243ms
+2026-09-24 12:50:35,300 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.4[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:50:35,300 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.8[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:50:35,301 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.139[0m ([35mUnknown[0m) - 1509ms
+2026-09-24 12:50:36,282 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.249[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:50:36,554 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.158[0m ([35mPT-DR1A04G-K1[0m) - 4277ms
+2026-09-24 12:50:36,611 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.194[0m ([35mPT-DR1A04G-K1[0m) - 4334ms
+2026-09-24 12:50:36,730 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.151[0m ([35mPT-DR1A04G-K1[0m) - 5956ms
+2026-09-24 12:50:36,796 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.20[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:50:36,796 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.12[0m ([35mUnknown[0m) - 1494ms
+2026-09-24 12:50:38,040 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.248[0m ([35mUnknown[0m) - 1484ms
+2026-09-24 12:50:38,116 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.226[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:50:38,235 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.62[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:50:38,304 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.11[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:50:38,883 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.207[0m ([35mPT-DR1A04G-K1[0m) - 3865ms
+2026-09-24 12:50:39,268 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.188[0m ([35mPT-DR1A04G-K1[0m) - 3966ms
+2026-09-24 12:50:39,548 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.122[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:50:39,617 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.7[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:50:39,731 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.215[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:50:39,795 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.232[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:50:40,398 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.6[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:50:40,625 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.190[0m ([35mPT-DR1A04G-K1[0m) - 3829ms
+2026-09-24 12:50:40,782 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.227[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:50:41,050 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.244[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:50:41,130 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.9[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:50:41,247 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.164[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:50:41,303 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.87[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:50:41,915 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.250[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:50:42,133 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.225[0m ([35mPT-DR1A04G-K1[0m) - 8340ms
+2026-09-24 12:50:42,296 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.136[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:50:42,565 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.18.196[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:50:42,750 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.11.93[0m ([35mUnknown[0m) - 1503ms
+2026-09-24 12:50:42,799 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.5[0m ([35mUnknown[0m) - 1495ms
+2026-09-24 12:50:42,989 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.10.240[0m ([35mDS-7A04HGHI-F1\ECO[0m) - 6706ms
+2026-09-24 12:50:43,646 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.243[0m ([35mUnknown[0m) - 1507ms
+2026-09-24 12:50:43,812 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.1[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:50:44,041 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.222[0m ([35mUnknown[0m) - 1472ms
+2026-09-24 12:50:44,265 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.10.237[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:50:44,291 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.19.17[0m ([35mUnknown[0m) - 1491ms
+2026-09-24 12:50:45,025 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.205[0m ([35mPT-DR1A04G-K1[0m) - 4398ms
+2026-09-24 12:50:45,076 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.183[0m ([35mPT-DR1A04G-K1[0m) - 3946ms
+2026-09-24 12:50:45,133 | WARNING | main | Interrupted by user
+2026-09-24 12:51:16,205 | INFO    | src.database | Database pool initialized
+2026-09-24 12:51:16,230 | INFO    | main | [32mLoaded 723 DVRs into memory. Database connection closed during execution.[0m
+2026-09-24 12:51:17,764 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.207[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:51:17,764 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.188[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:51:17,766 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.170[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:51:17,766 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.162[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:51:17,766 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.192[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:51:17,766 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.152[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:51:17,767 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.155[0m ([35mUnknown[0m) - 1517ms
+2026-09-24 12:51:17,767 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.168[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:51:17,767 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.161[0m ([35mUnknown[0m) - 1518ms
+2026-09-24 12:51:17,768 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.166[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:51:19,278 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.183[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:51:19,280 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.181[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:51:19,280 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.186[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:51:19,281 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.172[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:51:19,281 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.159[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:51:19,281 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.169[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:51:19,282 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.150[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:51:19,282 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.206[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:51:20,781 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.201[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:51:20,781 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.185[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:51:20,782 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.163[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:51:20,782 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.195[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:51:20,783 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.171[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:51:20,783 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.191[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:51:20,784 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.204[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:51:21,363 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.176[0m ([35mPT-DR1A04G-K1[0m) - 3594ms
+2026-09-24 12:51:22,284 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.182[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:51:22,284 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.166[0m ([35mUnknown[0m) - 1498ms
+2026-09-24 12:51:22,284 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.184[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:51:22,285 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.173[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:51:22,285 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.154[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:51:22,285 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.193[0m ([35mUnknown[0m) - 1499ms
+2026-09-24 12:51:22,286 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.241[0m ([35mUnknown[0m) - 1500ms
+2026-09-24 12:51:22,327 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.186[0m ([35mPT-DR1A04G-K1[0m) - 4558ms
+2026-09-24 12:51:22,869 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.221[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:51:23,084 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.168[0m ([35mPT-DR1A04G-K1[0m) - 3801ms
+2026-09-24 12:51:23,791 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.174[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:51:23,791 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.192[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:51:23,792 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.165[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:51:23,792 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.193[0m ([35mUnknown[0m) - 1505ms
+2026-09-24 12:51:23,793 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.199[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:51:23,793 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.208[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:51:23,793 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.182[0m ([35mUnknown[0m) - 1506ms
+2026-09-24 12:51:24,389 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.180[0m ([35mUnknown[0m) - 1519ms
+2026-09-24 12:51:24,588 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.181[0m ([35mUnknown[0m) - 1501ms
+2026-09-24 12:51:25,303 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.185[0m ([35mUnknown[0m) - 1508ms
+2026-09-24 12:51:25,304 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.230[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:51:25,305 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.203[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:51:25,305 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.210[0m ([35mUnknown[0m) - 1510ms
+2026-09-24 12:51:25,306 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.191[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:51:25,306 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.2[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:51:25,306 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.248[0m ([35mUnknown[0m) - 1511ms
+2026-09-24 12:51:25,680 | INFO    | main | [33m[1m[SUCCESS_SAVED_ONLY][0m [36m172.17.16.247[0m ([35mPT-DR1A04G-K1[0m) - 3351ms
+2026-09-24 12:51:25,887 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.16[0m ([35mUnknown[0m) - 1497ms
+2026-09-24 12:51:26,102 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.14.175[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:51:26,819 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.250[0m ([35mUnknown[0m) - 1512ms
+2026-09-24 12:51:26,821 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.5[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:51:26,821 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.61[0m ([35mUnknown[0m) - 1514ms
+2026-09-24 12:51:26,822 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.217[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:51:26,822 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.231[0m ([35mUnknown[0m) - 1515ms
+2026-09-24 12:51:26,823 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.35[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:51:26,823 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.17.1[0m ([35mUnknown[0m) - 1516ms
+2026-09-24 12:51:27,185 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.15.62[0m ([35mUnknown[0m) - 1504ms
+2026-09-24 12:51:27,401 | INFO    | main | [31m[1m[FAILED][0m [36m172.17.16.242[0m ([35mUnknown[0m) - 1513ms
+2026-09-24 12:51:27,448 | WARNING | main | Interrupted by user
+2026-09-24 12:56:56,073 | INFO    | src.database | Database pool initialized
+2026-09-24 12:56:57,414 | INFO    | src.database | Saved/Updated 1 log records
+2026-09-24 13:27:43,953 | INFO    | src.database | Database pool initialized
+2026-09-24 13:27:44,903 | INFO    | src.database | Saved/Updated 1 log records

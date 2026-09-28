@@ -1,0 +1,139 @@
+================================================================================
+                    HIKVISION ISAPI COMPLETE ENDPOINTS LIST
+================================================================================
+
+1. SYSTEM & DEVICE INFO
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/System/deviceInfo
+Method      : GET
+Auth        : HTTP Digest / Basic
+Description : DVR ka model number, serial number, device name aur firmware 
+              version fetch karne ke liye use hota hai.
+Response    : XML (<DeviceInfo>...</DeviceInfo>)
+
+
+2. VIDEO INPUT CHANNELS LIST
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/System/Video/inputs/channels
+Method      : GET
+Auth        : HTTP Digest / Basic
+Description : DVR me kitne camera channels (e.g. Channel 1, 2, 3, 4) connected 
+              aur active hain, unki list fetch karta hai.
+Response    : XML (<VideoInputChannelList>...</VideoInputChannelList>)
+
+
+3. BASIC EVENT DETECTION ACTIVATION (CHECKBOX ENABLE)
+--------------------------------------------------------------------------------
+A) Motion Detection:
+   Endpoint : /ISAPI/System/Video/inputs/channels/{channel_id}/motionDetection
+   Method   : GET / PUT
+   Headers  : Content-Type: application/xml
+   Auth     : HTTP Digest / Basic
+   Desc     : Channel par 'Enable Motion Detection' checkbox ko ON/OFF karta hai.
+   Payload  : XML (<MotionDetection><enabled>true</enabled>...</MotionDetection>)
+
+B) Video Loss Detection:
+   Endpoint : /ISAPI/System/Video/inputs/channels/{channel_id}/videoLoss
+   Method   : GET / PUT
+   Headers  : Content-Type: application/xml
+   Auth     : HTTP Digest / Basic
+   Desc     : Channel par 'Enable Video Loss' checkbox ko ON/OFF karta hai.
+   Payload  : XML (<VideoLoss><enabled>true</enabled></VideoLoss>)
+
+C) Video Tampering Detection:
+   Endpoint : /ISAPI/System/Video/inputs/channels/{channel_id}/tamperDetection
+   Method   : GET / PUT
+   Headers  : Content-Type: application/xml
+   Auth     : HTTP Digest / Basic
+   Desc     : Channel par 'Enable Video Tampering' checkbox ko ON/OFF karta hai.
+   Payload  : XML (<TamperDetection><enabled>true</enabled>...</TamperDetection>)
+
+
+4. EMAIL SMTP CONFIGURATION
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/System/Network/mailing/1
+Fallback    : /ISAPI/System/Network/mailing
+Method      : PUT
+Headers     : Content-Type: application/xml
+Auth        : HTTP Digest / Basic
+Description : DVR me SMTP server details (host, port, SSL, sender email, 
+              app password) aur receiver email list save karne ke liye.
+Payload     : XML (<mailing>...</mailing>)
+
+
+5. TEST EMAIL VERIFICATION
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/System/Network/mailing/test
+Method      : POST
+Headers     : Content-Type: application/xml
+Auth        : HTTP Digest / Basic
+Description : Configured SMTP settings verify karne ke liye DVR se test 
+              email trigger karta hai.
+Payload     : XML (<mailingTestDescription>...</mailingTestDescription>)
+Response    : XML (<mailingTestResult><errorDescription>ok</errorDescription>)
+
+
+6. EVENT TRIGGERS LIST
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/Event/triggers
+Method      : GET
+Auth        : HTTP Digest / Basic
+Description : DVR ke sabhi active events (Motion, Video Loss, Tamper, 
+              HDD Error, HDD Full, etc.) ki list aur unke linkage methods 
+              fetch karne ke liye.
+Response    : XML (<EventTriggerList>...</EventTriggerList>)
+
+
+7. SINGLE EVENT TRIGGER DETAILS
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/Event/triggers/{trigger_id}
+Method      : GET
+Auth        : HTTP Digest / Basic
+Example IDs : 
+              - VMD-1, VMD-2, VMD-3, VMD-4      (Motion Detection Channels)
+              - tamper-1, tamper-2, ...         (Video Tampering Channels)
+              - videoloss-1, videoloss-2, ...   (Video Loss Channels)
+              - diskerror                       (Hard Disk Read/Write Error)
+              - diskfull                        (Hard Disk Full Alarm)
+              - nicbroken                       (Network Disconnected)
+              - recordingfailure                (Recording Exception / Failure)
+              - ipconflict                      (IP Conflict Alarm)
+              - illaccess                       (Illegal Access / Login Attempts)
+Description : Kisi specific event trigger ki details fetch karne ke liye.
+Response    : XML (<EventTrigger>...</EventTrigger>)
+
+
+8. EVENT EMAIL LINKAGE (ENABLE SEND EMAIL ACTION)
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/Event/triggers/{trigger_id}
+Method      : PUT
+Headers     : Content-Type: application/xml
+Auth        : HTTP Digest / Basic
+Description : Specific event par email alert enable karne ke liye (XML me 
+              <notificationMethod>email</notificationMethod> add karke 
+              update kiya jata hai).
+Payload     : XML (<EventTrigger>...</EventTrigger>)
+
+
+--------------------------------------------------------------------------------
+ADDITIONAL / OPTIONAL STREAMING & NOTIFICATION ENDPOINTS
+--------------------------------------------------------------------------------
+
+9. REAL-TIME EVENT STREAM (ALERT STREAM)
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/Event/notification/alertStream
+Method      : GET
+Auth        : HTTP Digest
+Description : Real-time long-polling multipart/mixed stream connection. DVR 
+              jaise hi koi event detect karta hai, turant XML stream karta hai.
+
+
+10. HTTP WEBHOOK PUSH NOTIFICATION
+--------------------------------------------------------------------------------
+Endpoint    : /ISAPI/Event/notification/httpHosts/1
+Method      : PUT / GET
+Headers     : Content-Type: application/xml
+Auth        : HTTP Digest / Basic
+Description : DVR ko external HTTP server par automated event POST / webhook 
+              bhejne ke liye configure karta hai.
+================================================================================

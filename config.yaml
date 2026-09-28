@@ -1,0 +1,53 @@
+smtp:
+  server: smtp.gmail.com
+  port: 587
+  sender_name: "Hikvision Alert"
+  sender_email: ${SENDER_EMAIL}       # From .env
+  password: ${EMAIL_PASSWORD}          # From .env
+  enable_ssl: true
+
+receivers:
+  # - id: "1"
+  #   name: "suman"
+  #   email: "sumanijardar@sarsspl.com"
+  - id: "1"
+    name: "Prashant"
+    email: "prashantyadav@sarsspl.com"
+  # - id: "3"
+  #   name: "Aniruddh"
+  #   email: "vishwaaniruddh@gmail.com"
+
+events:
+  enable_email_linkage: true   # Auto-enable email trigger on events
+  motion: true                 # Motion Detection (VMD)
+  video_loss: true             # Video Loss
+  tamper: true                 # Video Tampering
+  hdd_error: true              # HDD Error
+  hdd_full: true               # HDD Full
+  exceptions: true             # Network Broken, IP Conflict, Record Failure
+
+database:
+  host: localhost
+  user: root
+  password: ""
+  database: esurv
+  pool_min: 5
+  pool_max: 40
+
+execution:
+  max_concurrent: 10          # Parallel DVR connections (10 is safe for Gmail SMTP + fast throughput)
+  ping_timeout: 1.5           # Fast reachability check timeout (seconds)
+  request_timeout: 15         # HTTP Request Timeout (seconds)
+  test_email_timeout: 45      # Test Email timeout (seconds)
+  max_retries: 2
+  retry_delay: 2
+
+dvr_defaults:
+  port: 81
+  username: admin
+  password: "trans@123"
+
+logging:
+  level: INFO
+  file: logs/dvr_setup.log
+  rotate_size_mb: 10
